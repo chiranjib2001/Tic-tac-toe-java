@@ -10,4 +10,4 @@ Feel free to enjoy the code . It is preatty easy .
   
   b. Offline : https://www.java.com/download/ie_manual.jsp
   
-3. Mobile or Desktop
+2. Mobile or Desktop
